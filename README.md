@@ -27,16 +27,16 @@ Para el motor hay que escribir un poco más de código ya que quiero que cuando 
 Para probar como está funcionando nuestro sistema domótico necesitaré hasta 5 terminales, una para suscribirse a todos los topicos de las plantas, y las cuatro restantes para ejecutar los scripts y que publiquen lo que he programado. Yo he usado una terminal del propio mac, y terminales de Visual Studio Code ya que se puede ejecutar los scripts en un terminal dedicado.
 
 ###### Terminal de Broker
-![Terminal Broker](md_images/Terminal_Broker.png)
+![Terminal Broker](doc/md_images/Terminal_Broker.png)
 
 ###### Terminal de Temperatura
-![Terminal Temperatura](md_images/Terminal_Temperatura.png)
+![Terminal Temperatura](doc/md_images/Terminal_Temperatura.png)
 
 ###### Terminal de Humedad
-![Terminal Humedad](md_images/Terminal_Humedad.png)
+![Terminal Humedad](doc/md_images/Terminal_Humedad.png)
 
 ###### Terminal de Color
-![Terminal Color](md_images/Terminal_Color.png)
+![Terminal Color](doc/md_images/Terminal_Color.png)
 
 ###### Terminal de Motor
-![Terminal Motor](md_images/Terminal_Motor.png)
+![Terminal Motor](doc/md_images/Terminal_Motor.png)
